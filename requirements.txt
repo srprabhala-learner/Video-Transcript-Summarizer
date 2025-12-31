@@ -1,0 +1,6 @@
+youtube-transcript-api>=1.0.0
+streamlit
+huggingface_hub
+langchain-ollama
+python-dotenv
+pathlib
